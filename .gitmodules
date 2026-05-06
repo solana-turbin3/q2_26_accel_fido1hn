@@ -1,0 +1,3 @@
+[submodule "accel_anchor_escrow"]
+	path = accel_anchor_escrow
+	url = https://github.com/fido1hn/accel_anchor_escrow_q2_26.git
