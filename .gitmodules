@@ -1,3 +1,6 @@
 [submodule "accel_anchor_escrow"]
 	path = accel_anchor_escrow
 	url = https://github.com/fido1hn/accel_anchor_escrow_q2_26.git
+[submodule "whitelist_transfer_hook_q2"]
+	path = whitelist_transfer_hook_q2
+	url = https://github.com/fido1hn/accel_whitelist_transfer_hook_q2_26.git
