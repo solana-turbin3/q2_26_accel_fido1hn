@@ -4,3 +4,6 @@
 [submodule "whitelist_transfer_hook_q2"]
 	path = whitelist_transfer_hook_q2
 	url = https://github.com/fido1hn/accel_whitelist_transfer_hook_q2_26.git
+[submodule "token_vault_with_transfer_hook"]
+	path = token_vault_with_transfer_hook
+	url = https://github.com/fido1hn/token_vault_with_transfer_hook.git
